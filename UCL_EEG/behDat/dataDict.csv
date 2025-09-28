@@ -18,6 +18,4 @@
 "showAdviceEstimationOnset","Timing of est. of Great prompt"
 "showOwnerCareRatingOnset","Timing of est. of Caring prompt"
 "adviceEstInpInitValue","(initial value for Great - not used)"
-"ownerCareRatingInputInitialValue","(Initial value fo Caring - not used)"
-
-  
+"ownerCareRatingInputInitialValue","(Initial value fo Caring - not used"
